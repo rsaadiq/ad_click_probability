@@ -1,5 +1,4 @@
 # Ad Click Probability Prediction
-![title](Capture.JPG)
 
 
 # Problem Statement
